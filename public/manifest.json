@@ -1,0 +1,16 @@
+{
+    "name": "AI Hub",
+    "short_name": "AIHub",
+    "description": "Your Gateway to AI Intelligence — Discover tools, news, models, and more.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0A0F1E",
+    "theme_color": "#7C3AED",
+    "icons": [
+        {
+            "src": "/vite.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
